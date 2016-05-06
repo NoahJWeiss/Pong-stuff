@@ -18,7 +18,7 @@ public void start() {
 
 public void stop() { } 
 
-public void destroy() { } 
+
 
 public void run () { 
    Thread.currentThread().setPriority(Thread.MIN_PRIORITY);
